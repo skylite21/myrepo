@@ -11,4 +11,4 @@ main('testing-nightly')
 #23432
 # pista csinalta
 # piasdasd
-# pistaaaaaa tovabb dolgozik
+# zsolti
