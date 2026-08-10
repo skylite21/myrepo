@@ -3,8 +3,12 @@
 # sdfkjsdlfkj sdfsdfs
 
 def main(p):
-  print(p)
+  print('this is my main function')
 
+sdf = 4
+sdf
+sdf
+sdf
 # working on block 2312
 main('testing-nightly')
 main('testing-nightly')
@@ -18,3 +22,10 @@ def myfunc():
 # pista csinalta
 # piasdasd
 # zsolti
+# asdasdasdasdd
+# asdasdasdasdd
+# asdasdasdasdd
+# asdasdasdasdd
+# asdasdasdasdd
+# asdasdasdasdd
+# asdasdasdasdd
