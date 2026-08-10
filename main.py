@@ -7,6 +7,7 @@ def main(p):
 # working on block 2312
 main('testing-nightly')
 main('testing-nightly')
+main('testing-nightly')
 
 def myfunc():
   print('this is my function')
