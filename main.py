@@ -3,7 +3,7 @@
 # sdfkjsdlfkj sdfsdfs
 
 def main(p):
-  print(p)
+  print('this is my main function')
 
 sdf = 4
 sdf
