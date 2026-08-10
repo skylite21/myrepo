@@ -3,5 +3,4 @@
 def main(p):
   print(p)
 
-#valami
-main('testing-m')
+main('testing-nightly')
