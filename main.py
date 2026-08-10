@@ -4,4 +4,4 @@ def main(p):
   print(p)
 
 #valami
-main('testing')
+main('testing-m')
