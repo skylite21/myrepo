@@ -8,6 +8,9 @@ def main(p):
 main('testing-nightly')
 main('testing-nightly')
 
+def myfunc():
+  print('this is my function')
+
 
 #23432
 # pista csinalta
