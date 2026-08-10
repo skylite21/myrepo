@@ -6,6 +6,7 @@ def main(p):
 
 # working on block 2312
 main('testing-nightly')
+main('testing-nightly')
 
 
 #23432
