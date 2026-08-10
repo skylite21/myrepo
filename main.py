@@ -3,4 +3,4 @@
 def main(p):
   print(p)
 
-main('test-master')
+main('test-m')
