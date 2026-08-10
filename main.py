@@ -2,8 +2,8 @@
 # this is my project on master
 # sdfkjsdlfkj sdfsdfs
 
-def main(p):
-  print('this is my main function')
+def main(p, x):
+  print(p)
 
 sdf = 4
 sdf
